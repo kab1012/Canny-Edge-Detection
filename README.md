@@ -1,4 +1,4 @@
-# Device-Character-Drivers
+# Canny Edge Detection
 
 This mplement two versions of an image processing application that detects theedges of an image.  
 The first version will run entirely on the CPU. The second version of the application will make use of hardware acceleration, 
